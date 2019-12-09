@@ -1,6 +1,6 @@
 # First Markdown File
 
-The **first** is the worst. The *second* is the best.
+**First** fish, *second* fish.
 
 Example list:
 
