@@ -3,7 +3,6 @@
 **First** fish, *second* fish.
 
 Example list:
-
 * Think
 * See
 * Do
