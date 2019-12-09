@@ -8,6 +8,6 @@ Example list:
 * See
 * Do
 
-Example code: 'console.log("Gotcha!");'
+Example code: `console.log("Gotcha!");`
 
 [Link to my GitHub](https://github.com/jackyduong1)
